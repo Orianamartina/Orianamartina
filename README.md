@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orianamartina" alt="orianamartina" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Django**
-- My current personal project is a language vocabulary learning based on active recall and spaced repetition.
+- My current personal project is a language vocabulary learning app based on active recall and spaced repetition.
 
 - 📫 How to reach me **orianapettinelli1@gmail.com**
 
