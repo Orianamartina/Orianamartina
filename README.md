@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orianamartina" alt="orianamartina" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Django**
-- My current personal project is a language vocabulary learning app based on active recall and spaced repetition.
+- 🌱 Developer at <a href="https://www.camba.coop/"> Cambá Cooperativa </a>
 
 - 📫 How to reach me **orianapettinelli1@gmail.com**
 
