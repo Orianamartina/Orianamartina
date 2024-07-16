@@ -6,6 +6,7 @@
 - 🌱 Developer at <a href="https://www.camba.coop/"> Cambá Cooperativa </a>
 
 - 📫 How to reach me **orianapettinelli1@gmail.com**
+- You can also find me in <a href="https://gitlab.com/Orianamartina">gitlab</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
